@@ -1,0 +1,33 @@
+# CMake build directory
+build/
+
+# Compiled executables
+stereo_vision
+
+# Object files
+*.o
+*.obj
+
+# Static and shared libraries
+*.a
+*.so
+*.dll
+*.dylib
+
+# IDE settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Generated images and videos
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+
+# Operating system files
+.DS_Store
+Thumbs.db
